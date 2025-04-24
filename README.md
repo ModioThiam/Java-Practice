@@ -10,7 +10,8 @@ I am also using this repo to improve my Git/GitHub workflow: pushing code, versi
 - Java Syntax basics 
 - If statements, switch statements 
 - Loops (for, while)
-- classic FizzBuzz exercise
+- input validation
+- classic FizzBuzz, Grade Calculator exercises
 
 ### Object-oriented Programming (OOP)
 - Classes, Objects
